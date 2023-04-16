@@ -1,1 +1,5 @@
-# Hospital-Management-Website
+# Hospital Management Website
+
+### How to install
+
+### Note
